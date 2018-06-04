@@ -1,4 +1,6 @@
 
+# Shampra - Bilan Etoro de juin 2018
+
 Bonjour à tous ceux qui me suivent! 
 
 Je fais ce point en français, n'hésitez pas à demander si Google Trad n'est pas à la hauteur! 
@@ -23,14 +25,19 @@ Actuellement, 5 positions en X10 : 2 > 100% de gain, 1 péniblement en vert et 1
 
 En janvier, Etoro a significativement augmenté les frais. Drastiquement.
 Avant, conserver une position 1 an, levier X5 pour 100\$, coûtait 14\% en frais...
-Maintenant, la même position côute 40\% par an.
+Maintenant, la même position coûte 40\% par an.
 Cela nécessite vraiment de surperformer! En ces temps incertains, encore plus difficile... et un échec devient une double peine!
-C'est aussi visible sur les PI : Wels3y est un gros consommateur de frais, le plus gros chez moi.
+C'est aussi visible sur les PI : **Wels3y** est un gros consommateur de frais, le plus gros chez moi.
 Actuellement, 5% de l'investissement placé sur lui sont partis en frais...
 PI : vous avez des frais réduits ou pas de frais, mais n'oubliez pas que nous si!
 
 Côté statistiques, pas de surprises, ça a bien augmenté :
+
 ![Stats frais](etoro_evol_frais.png)
+
+Bilan : comme vu plus haut, j'ai réduit les leviers.
+Mais je tiens à garder ma diversification et n'ai pas assez dans mon portefeuille pour diminuer le levier sans que cela soit au détriment de cette diversité.
+Mais je vais continuer à surveiller mes statistiques...
 
 ## Bilan activité
 
@@ -51,7 +58,7 @@ Produit|% du compte|Mois
 **STM.MI**|-3%|Avril 
 
 **MXL** a été vraiment douloureux...  
-**STM.MI** encore plus, après avoir fermé plusieurs positions via le SL, j'ai fermé en rouge tout le reste... et l'action est reparti à la hausse aussitôt! Très énervant! Je suis ré-entré (actuellement à +30%) mais avec une somme moindre et ce qui est perdu est... perdu
+**STM.MI** encore plus, après avoir fermé plusieurs positions via le SL, j'ai fermé en rouge tout le reste... et l'action est repartie à la hausse aussitôt! Très énervant! Je suis ré-entré (actuellement à +30%) mais avec une somme moindre et ce qui est perdu est... perdu
 
 |Produit|% du compte|Mois| 
 |--|--|--| 
@@ -69,8 +76,8 @@ Début d'année difficile pour tous sans exception, surtout le mois de mars vrai
 
 J'ai ajouté **CatyFX** et **ALnayef** afin de diversifier (et pour leur régularité!), le début a été difficile mais tout est vert maintenant!
 
-**Wesley** reste très apprécié pour ses messages, rassurant en temps de crise et permettant parfois de prendre de bonnes positions.  
-Et **AlexPlesk** pour sa régularité : même si là aussi 2018 a mal commencé, je ne m'inquiète vraiment pas pour cette copie!
+**Wels3y** reste très apprécié pour ses messages, rassurant en temps de crise et permettant parfois de prendre de bonnes positions.  
+Et **AlexPlesk** pour sa régularité : même si là aussi 2018 a mal commencé, je ne m'inquiète vraiment pas pour ma copie!
 
 
 ## Améliorer l'utilisation
