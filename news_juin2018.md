@@ -16,7 +16,12 @@ Le gain réel (frais déduit) n'est aussi que de 20% alors que ces positions rep
 Ces statistiques sont sur un an, l'intérêt a fortement diminué depuis janvier avec les frais largement augmenté d'Etoro... mais je continuerais, avec beaucoup plus de parcimonie!  
 Actuellement, 5 positions en X10 : 2 > 100% de gain, 1 péniblement en vert et 1 en rouge qui revient de loin.
 
-xxxxxxxxxxxxxx
+![Stats leviers](etoro_levier.png)
+
+
+
+
+![Stats frais](etoro_frais.png)
 
 ## Bilan activité
 
@@ -27,7 +32,7 @@ La leçon a coûté cher, mais au moins je suis fier d'être de nouveau positif 
 
 Je travaille pour revenir en positif sur les indices (suite grosse perte de 5% du compte en février), l'activité principale restant sur les actions US et EU.
 
-xxxxxxxxxxxxxxxxxxxxxxx
+![Stats compte](etoro_resultats.png)
 
 ### Quelques extrêmes
 Produit|% du compte|Mois
