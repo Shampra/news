@@ -5,13 +5,13 @@ Bonjour à tous ceux qui me suivent!
 
 Je fais ce point en français, n'hésitez pas à demander si Google Trad n'est pas à la hauteur! 
 
-Je ne parle jamais de mon compte, je ne cherche pas à le "vendre" comme beaucoup ;-). 
-Mais certains m'avaient demandé de faire un point suite à l'évolution des frais en janvier.
-J'ai aussi l'un de vous qui m'a demandé des infos sur ma surcouche Etoro. 
+Je ne parle jamais de mon compte, je ne cherche pas à le "vendre" comme beaucoup ;-).   
+Mais certains m'avaient demandé de faire un point suite à l'évolution des frais en janvier.  
+J'ai aussi l'un de vous qui m'a demandé des infos sur ma surcouche Etoro.  
 Et je vais en profiter enfin pour faire un point global après bientôt 1 an sur Etoro, pour  moi-même! 
 
 ## Bilan des leviers
-_Pour répondre à la question "est-ce réellement intéressant d'utiliser un haut levier?"..._  
+_Pour répondre à la question "est-ce réellement intéressant d'utiliser un haut levier?"..._   
 Ma moyenne de gain par position en X10 est de 20%, contre 11% en X5.  
 Le gain réel (frais déduit) n'est aussi que de 20% alors que ces positions représentent 23% de mes positions.
 
@@ -23,31 +23,29 @@ Actuellement, 5 positions en X10 : 2 > 100% de gain, 1 péniblement en vert et 1
 
 ## Impact de l'augmentation des frais
 
-En janvier, Etoro a significativement augmenté les frais. Drastiquement.
-Avant, conserver une position 1 an, levier X5 pour 100\$, coûtait 14\% en frais...
-Maintenant, la même position coûte 40\% par an.
-Cela nécessite vraiment de surperformer! En ces temps incertains, encore plus difficile... et un échec devient une double peine!
-C'est aussi visible sur les PI : **Wels3y** est un gros consommateur de frais, le plus gros chez moi.
-Actuellement, 5% de l'investissement placé sur lui sont partis en frais...
+En janvier, Etoro a significativement augmenté les frais. Drastiquement.  
+Avant, conserver une position 1 an, levier X5 pour 100\$, coûtait 14\% en frais...  
+Maintenant, la même position coûte 40\% par an!  
+Cela nécessite vraiment de surperformer! En ces temps incertains, encore plus difficile... et un échec devient une double peine!  
+C'est aussi visible sur les PI : **Wels3y** est un gros consommateur de frais, le plus gros chez moi.  
+Actuellement, 5% de l'investissement placé sur lui sont partis en frais...  
 PI : vous avez des frais réduits ou pas de frais, mais n'oubliez pas que nous si!
 
-Côté statistiques, pas de surprises, ça a bien augmenté :
-
+Côté statistiques, pas de surprises, ça a bien augmenté :  
 ![Stats frais](etoro_evol_frais.png)
 
-Bilan : comme vu plus haut, j'ai réduit les leviers.
-Mais je tiens à garder ma diversification et n'ai pas assez dans mon portefeuille pour diminuer le levier sans que cela soit au détriment de cette diversité.
-Mais je vais continuer à surveiller mes statistiques...
+Bilan : comme vu plus haut, j'ai réduit les leviers.  
+Mais je tiens à garder ma diversification et n'ai pas assez dans mon portefeuille pour diminuer le levier sans que cela soit au détriment de cette diversité.  
+Mais je vais continuer à surveiller mes statistiques...  
 
 ## Bilan activité
 
 
 ### Par type de produits
 J'ai perdu beaucoup dans le pétrole, l'or et la devise USDJPY pendant mes premiers mois... -22%, rien que ça!  
-La leçon a coûté cher, mais au moins je suis fier d'être de nouveau positif malgré cela!
+La leçon a coûté cher, mais au moins je suis fier d'être de nouveau positif malgré cela!  
 
-Je travaille pour revenir en positif sur les indices (suite grosse perte de 5% du compte en février), l'activité principale restant sur les actions US et EU.
-
+Je travaille pour revenir en positif sur les indices (suite grosse perte de 5% du compte en février), l'activité principale restant sur les actions US et EU.  
 ![Stats compte](etoro_resultat.png)
 
 ### Quelques extrêmes
@@ -65,7 +63,7 @@ Produit|% du compte|Mois
 |MU|4,4%|Mars
 |NFLX|2,8%|Janvier
 
-Pleins de bonnes surprises, mais rare sont les pics supérieurs à +2%!
+Pleins de bonnes surprises, mais rare sont les pics supérieurs à +2%!  
 **MU** est exceptionnel, difficile à tenir car cela passe par de longue périodes rouges, mais ça vaut le coup : de nouveau +2% gagné en Mai!
 
 
