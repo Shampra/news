@@ -19,9 +19,18 @@ Actuellement, 5 positions en X10 : 2 > 100% de gain, 1 péniblement en vert et 1
 ![Stats leviers](etoro_levier.png)
 
 
+## Impact de l'augmentation des frais
 
+En janvier, Etoro a significativement augmenté les frais. Drastiquement.
+Avant, conserver une position 1 an, levier X5 pour 100\$, coûtait 14\% en frais...
+Maintenant, la même position côute 40\% par an.
+Cela nécessite vraiment de surperformer! En ces temps incertains, encore plus difficile... et un échec devient une double peine!
+C'est aussi visible sur les PI : Wels3y est un gros consommateur de frais, le plus gros chez moi.
+Actuellement, 5% de l'investissement placé sur lui sont partis en frais...
+PI : vous avez des frais réduits ou pas de frais, mais n'oubliez pas que nous si!
 
-![Stats frais](etoro_frais.png)
+Côté statistiques, pas de surprises, ça a bien augmenté :
+![Stats frais](etoro_evol_frais.png)
 
 ## Bilan activité
 
@@ -32,7 +41,7 @@ La leçon a coûté cher, mais au moins je suis fier d'être de nouveau positif 
 
 Je travaille pour revenir en positif sur les indices (suite grosse perte de 5% du compte en février), l'activité principale restant sur les actions US et EU.
 
-![Stats compte](etoro_resultats.png)
+![Stats compte](etoro_resultat.png)
 
 ### Quelques extrêmes
 Produit|% du compte|Mois
