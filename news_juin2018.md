@@ -1,21 +1,22 @@
+
 Bonjour à tous ceux qui me suivent! 
 
 Je fais ce point en français, n'hésitez pas à demander si Google Trad n'est pas à la hauteur! 
+
 Je ne parle jamais de mon compte, je ne cherche pas à le "vendre" comme beaucoup ;-). 
 Mais certains m'avaient demandé de faire un point suite à l'évolution des frais en janvier.
 J'ai aussi l'un de vous qui m'a demandé des infos sur ma surcouche Etoro. 
 Et je vais en profiter enfin pour faire un point global après bientôt 1 an sur Etoro, pour  moi-même! 
 
 ## Bilan des leviers
-Pour répondre à la question "est-ce réellement intéressant d'utiliser un haut levier?"...
+_Pour répondre à la question "est-ce réellement intéressant d'utiliser un haut levier?"..._  
 Ma moyenne de gain par position en X10 est de 20%, contre 11% en X5.  
 Le gain réel (frais déduit) n'est aussi que de 20% alors que ces positions représentent 23% de mes positions.
 
-Ces statistiques sont depuis un an, l'intérêt a fortement diminué depuis janvier avec les frais largement augmenté d'Etoro... mais je continuerais, avec beaucoup plus de parcimonie!
+Ces statistiques sont sur un an, l'intérêt a fortement diminué depuis janvier avec les frais largement augmenté d'Etoro... mais je continuerais, avec beaucoup plus de parcimonie!  
 Actuellement, 5 positions en X10 : 2 > 100% de gain, 1 péniblement en vert et 1 en rouge qui revient de loin.
 
 xxxxxxxxxxxxxx
-
 
 <h2>Bilan par type de produits</h2>
 Historique, j'ai perdu beaucoup dans le pétrole, l'or et la devise USDJPY pendant mes premiers mois... -22%, rien que ça! 
@@ -52,19 +53,3 @@ Même si peu de monde s'y intéresse, j'ai décidé de l'améliorer pour le diff
 Je suis en train de le transformer en web-extensions, de l'internationaliser (enfin, traduction anglais et français mais une fois en place tout est possible :)) et de le rendre plus facilement configurable 
 Et y seront intégrés d'autres nouveautés que je n'ai pas publié sur Github.
 Donc oui, désolé, pas de mise à jour (et pas possibilité de scinder comme demandé) mais tout ça viendra!
-
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
-Press h to open a hovercard with more details.
