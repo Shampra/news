@@ -18,38 +18,55 @@ Actuellement, 5 positions en X10 : 2 > 100% de gain, 1 péniblement en vert et 1
 
 xxxxxxxxxxxxxx
 
-<h2>Bilan par type de produits</h2>
-Historique, j'ai perdu beaucoup dans le pétrole, l'or et la devise USDJPY pendant mes premiers mois... -22%, rien que ça! 
-La leçon a coûté cher, mais au moins je suis fier d'être de nouveau positif malgré cela! 
+## Bilan activité
 
-Je travaille pour revenir en positif sur les indices (suite grosse perte de 5% du compte en février), l'activité principale restant sur les actions US et EU. 
 
-xxxxxxxxxxxxxxxxxxxxxxx 
+### Par type de produits
+J'ai perdu beaucoup dans le pétrole, l'or et la devise USDJPY pendant mes premiers mois... -22%, rien que ça!  
+La leçon a coûté cher, mais au moins je suis fier d'être de nouveau positif malgré cela!
 
-## Quelques extrêmes
+Je travaille pour revenir en positif sur les indices (suite grosse perte de 5% du compte en février), l'activité principale restant sur les actions US et EU.
+
+xxxxxxxxxxxxxxxxxxxxxxx
+
+### Quelques extrêmes
 Produit|% du compte|Mois
 --|--|--
-SPX500|-2,6%|Mars 
-MXL|-2,7%|Mai 
-STM.MI|-3%|Avril 
+**SPX500**|-2,6%|Mars 
+**MXL**|-2,7%|Mai 
+**STM.MI**|-3%|Avril 
 
-MXL a été vraiment douloureux... 
-STM.MI encore plus, après avoir fermé plusieurs positions via le SL, j'ai fermé en rouge tout le reste... et l'action est reparti à la hausse aussitôt! Très énervant! Je suis ré-entré (actuellement à +30%) mais avec une somme moindre et ce qui est perdu est... perdu 
+**MXL** a été vraiment douloureux...  
+**STM.MI** encore plus, après avoir fermé plusieurs positions via le SL, j'ai fermé en rouge tout le reste... et l'action est reparti à la hausse aussitôt! Très énervant! Je suis ré-entré (actuellement à +30%) mais avec une somme moindre et ce qui est perdu est... perdu
 
 |Produit|% du compte|Mois| 
 |--|--|--| 
 |MU|4,4%|Mars
 |NFLX|2,8%|Janvier
 
-## Améliorer l'utilisation
-Pour information "My Etoro" est un userscript qui rajoute des informations à Etoro.
-En vrac :
-* Bulle d'information sur chaque produit 
-* Tag des produits (dans mon cas, l'action à faire et le type de produit, par exemple différencier marché US et marché EU)
-* Mise en valeur dans certains cas (rouge si à surveiller, date de l'ER en gras si c'est le lendemain,...)
-* Filtres et tri sur les favoris
+Pleins de bonnes surprises, mais rare sont les pics supérieurs à +2%!
+**MU** est exceptionnel, difficile à tenir car cela passe par de longue périodes rouges, mais ça vaut le coup : de nouveau +2% gagné en Mai!
 
-Même si peu de monde s'y intéresse, j'ai décidé de l'améliorer pour le diffuser.
-Je suis en train de le transformer en web-extensions, de l'internationaliser (enfin, traduction anglais et français mais une fois en place tout est possible :)) et de le rendre plus facilement configurable 
-Et y seront intégrés d'autres nouveautés que je n'ai pas publié sur Github.
-Donc oui, désolé, pas de mise à jour (et pas possibilité de scinder comme demandé) mais tout ça viendra!
+
+
+### Profils copiés  
+Merci aux PI que je copie! Surtout ceux dans le vert...  
+Début d'année difficile pour tous sans exception, surtout le mois de mars vraiment affreux.
+
+J'ai ajouté **CatyFX** et **ALnayef** afin de diversifier (et pour leur régularité!), le début a été difficile mais tout est vert maintenant!
+
+**Wesley** reste très apprécié pour ses messages, rassurant en temps de crise et permettant parfois de prendre de bonnes positions.  
+Et **AlexPlesk** pour sa régularité : même si là aussi 2018 a mal commencé, je ne m'inquiète vraiment pas pour cette copie!
+
+
+## Améliorer l'utilisation
+Pour information "My Etoro" est un userscript qui rajoute des informations à Etoro.  
+En vrac :
+-   Bulle d'information sur chaque produit
+-   Tag des produits (dans mon cas, l'action à faire et le type de produit, par exemple différencier marché US et marché EU)
+-   Mise en valeur dans certains cas (rouge si à surveiller, date de l'ER en gras si c'est le lendemain,...)
+-   Filtres et tri sur les favoris
+
+Même si le script est prévu initialement uniquement pour moi et que peu de monde le suit, j'ai décidé de l'améliorer pour le rendre "diffusable".  
+Je suis en train de le transformer en web-extensions, de l'internationaliser (enfin, traduction anglais et français mais une fois en place tout est possible :)) et de le rendre plus facilement configurable.  
+Et y seront intégrés d'autres nouveautés que je n'ai pas pris le temps de publier sur Github. Donc oui, désolé, toujours pas de mise à jour mais ça viendra!
