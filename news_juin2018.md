@@ -31,12 +31,14 @@ C'est aussi visible sur les PI : **Wels3y** est un gros consommateur de frais, l
 Actuellement, 5% de l'investissement placé sur lui sont partis en frais...  
 PI : vous avez des frais réduits ou pas de frais, mais n'oubliez pas que nous si!
 
-Côté statistiques, pas de surprises, ça a bien augmenté :  
+Côté statistiques, pas de surprises, ça a bien augmenté! Par contre levier X5 ou levier X10, pas de différence, c'est tout ou rien.    
 ![Stats frais](etoro_evol_frais.png)
 
-Bilan : comme vu plus haut, j'ai réduit les leviers.  
-Mais je tiens à garder ma diversification et n'ai pas assez dans mon portefeuille pour diminuer le levier sans que cela soit au détriment de cette diversité.  
-Mais je vais continuer à surveiller mes statistiques...  
+Bilan : 
+Je tiens à garder ma diversification!
+Pour éviter les frais, il faudrait tout passer en X2 ou X1 et je n'ai pas assez de fond pour le faire sans nuire à cette diversité.  
+Je vais simplement garder un oeil sur mes statistiques. Oh, et je n'ai plus ajouté de fonds sur Etoro depuis cette augmentation.
+
 
 ## Bilan activité
 
