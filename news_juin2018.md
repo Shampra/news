@@ -81,7 +81,7 @@ Et **AlexPlesk** pour sa régularité : même si là aussi 2018 a mal commencé,
 
 
 ## Améliorer l'utilisation
-Pour information "My Etoro" est un userscript qui rajoute des informations à Etoro.  
+Pour information ["My Etoro"](https://shampra.github.io/myEtoro/) est un userscript qui rajoute des informations à Etoro.  
 En vrac :
 -   Bulle d'information sur chaque produit
 -   Tag des produits (dans mon cas, l'action à faire et le type de produit, par exemple différencier marché US et marché EU)
